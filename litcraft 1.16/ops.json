@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "727c3090-33ec-3d5a-bae7-cfc3f26ac9e2",
+    "name": "pigmeister",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e87c5784-737c-33b7-9b56-2251596d9fbf",
+    "name": "gryffindor_001",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

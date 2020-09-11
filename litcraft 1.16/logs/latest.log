@@ -1,0 +1,310 @@
+<<<<<<< HEAD
+[09:00:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:00:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:00:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:00:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:00:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:00:11] [main/INFO]: Reloading ResourceManager: Default, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, durability ping v1.1.0.zip, more mob heads v2.3.0.zip, nether portal coords v1.0.0.zip, wandering trades v1.0.0.zip, armor statues v2.8.1.zip, multiplayer sleep v2.4.3.zip
+[09:00:13] [Worker-Main-14/INFO]: Loaded 7 recipes
+[09:00:13] [Worker-Main-14/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[09:00:14] [Worker-Main-14/ERROR]: Parsing error loading custom advancement main:main/namespace: Expected item to be an item, was unknown string 'minecraft:item'
+[09:00:14] [Worker-Main-14/INFO]: Loaded 974 advancements
+[09:00:17] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[09:00:17] [Server thread/INFO]: Loading properties
+[09:00:17] [Server thread/INFO]: Default game type: SURVIVAL
+[09:00:17] [Server thread/INFO]: Generating keypair
+[09:00:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:00:17] [Server thread/INFO]: Using default channel type
+[09:00:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:00:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:00:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:00:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:00:21] [Server thread/INFO]: Preparing level "world"
+[09:00:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:00:23] [Server thread/INFO]: Preparing spawn area: 0%
+[09:00:23] [Server thread/INFO]: Preparing spawn area: 0%
+[09:00:23] [Server thread/INFO]: Preparing spawn area: 0%
+[09:00:23] [Server thread/INFO]: Preparing spawn area: 0%
+[09:00:23] [Server thread/INFO]: Preparing spawn area: 0%
+[09:00:24] [Server thread/INFO]: Preparing spawn area: 59%
+[09:00:25] [Server thread/INFO]: Time elapsed: 4050 ms
+[09:00:25] [Server thread/INFO]: Done (4.281s)! For help, type "help"
+[09:07:25] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:53218] logged in with entity id 16 at (-1162.5481785022912, 84.0, 996.3000000119209)
+[09:07:25] [Server thread/INFO]: gryffindor_001 joined the game
+[09:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[09:08:59] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
+[09:08:59] [Server thread/INFO]: gryffindor_001 left the game
+[09:09:15] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:53234] logged in with entity id 610 at (-1153.2922724792095, 84.0, 990.6673343585477)
+[09:09:15] [Server thread/INFO]: gryffindor_001 joined the game
+[09:28:20] [Server thread/INFO]: [gryffindor_001: Set own game mode to Creative Mode]
+[09:28:41] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
+[09:28:41] [Server thread/INFO]: gryffindor_001 left the game
+[09:28:45] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:53261] logged in with entity id 4092 at (-1152.5577578412153, 99.0, 994.1626501410997)
+[09:28:45] [Server thread/INFO]: gryffindor_001 joined the game
+[09:28:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2951ms or 59 ticks behind
+[09:29:20] [Server thread/INFO]: [gryffindor_001: Set own game mode to Survival Mode]
+[09:31:08] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
+[09:31:08] [Server thread/INFO]: gryffindor_001 left the game
+[09:31:12] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:53279] logged in with entity id 4803 at (-1153.536815042353, 106.0, 994.6999999880791)
+[09:31:12] [Server thread/INFO]: gryffindor_001 joined the game
+[09:31:40] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
+[09:31:40] [Server thread/INFO]: gryffindor_001 left the game
+[09:31:43] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:53283] logged in with entity id 5236 at (-1153.2641237195853, 106.0, 994.8872874005625)
+[09:31:43] [Server thread/INFO]: gryffindor_001 joined the game
+[09:34:47] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
+[09:34:47] [Server thread/INFO]: gryffindor_001 left the game
+[09:34:50] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:53287] logged in with entity id 6072 at (-1152.985117676381, 81.0, 998.0989806142078)
+[09:34:50] [Server thread/INFO]: gryffindor_001 joined the game
+[09:34:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[09:39:02] [Server thread/WARN]: gryffindor_001 moved wrongly!
+[10:04:52] [Server thread/INFO]: [Server] kya hi kar rahe bsd
+[10:05:01] [Server thread/INFO]: <gryffindor_001> tree farm bna rha
+[10:05:06] [Server thread/INFO]: <gryffindor_001> aa jao tum bhi
+[10:05:10] [Server thread/INFO]: <gryffindor_001> ho gya complete
+[10:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[10:06:15] [Server thread/INFO]: pigmeister[/192.168.0.5:53449] logged in with entity id 13033 at (-1744.3179802670384, 71.0, 616.1108323463576)
+[10:06:15] [Server thread/INFO]: pigmeister joined the game
+[10:06:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19151ms or 383 ticks behind
+[10:06:35] [Server thread/INFO]: <gryffindor_001> hallo
+[10:06:44] [Server thread/INFO]: [Server] halo
+[10:06:53] [Server thread/INFO]: <gryffindor_001> server s kyun bol rha
+[10:06:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21528ms or 430 ticks behind
+[10:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7764ms or 155 ticks behind
+[10:07:20] [Server thread/INFO]: [Server] are kyahi minecraft bsdka 3 gb ram le rha server chudega thodi der tak
+[10:07:29] [Server thread/INFO]: <gryffindor_001> nhiiii
+[10:07:33] [Server thread/INFO]: <gryffindor_001> tnt duper chl rha
+[10:07:37] [Server thread/INFO]: <gryffindor_001> mt kro esa
+[10:07:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[10:08:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7158ms or 143 ticks behind
+[10:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11539ms or 230 ticks behind
+[10:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5113ms or 102 ticks behind
+[10:09:00] [Server thread/INFO]: <gryffindor_001> ped nhi ugg rha
+[10:09:07] [Server thread/INFO]: <pigmeister> kyuhi
+[10:09:18] [Server thread/INFO]: <gryffindor_001> mujhe lgta h 1.16 ka kuch chod h
+[10:09:24] [Server thread/INFO]: <gryffindor_001> ruko dekhne do
+[10:10:56] [Server thread/INFO]: <gryffindor_001> ped ugg gya
+[10:11:12] [Server thread/INFO]: <gryffindor_001> lekin piston n push nhi kia
+[10:11:13] [Server thread/INFO]: <pigmeister> jhut
+[10:11:16] [Server thread/INFO]: <pigmeister> acha
+[10:11:20] [Server thread/INFO]: <pigmeister> kyu bhai
+[10:11:33] [Server thread/INFO]: <gryffindor_001> dekhne do
+[10:14:12] [Server thread/INFO]: <gryffindor_001> smjh nhi aa rha
+[10:14:21] [Server thread/INFO]: <gryffindor_001> sb kuch same h pr nhi chl rha
+[10:15:58] [Server thread/INFO]: <gryffindor_001> are change krna pdega
+[10:17:20] [Server thread/INFO]: <gryffindor_001> udhr bhi
+[10:17:38] [Server thread/INFO]: gryffindor_001 has made the advancement [Sticky Situation]
+[10:17:43] [Server thread/INFO]: <gryffindor_001> wooo
+[10:19:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1143, y=89, z=1001} fx{x=-1143, y=88, z=1001}
+[10:19:03] [Server thread/INFO]: <pigmeister> 1 fence gate
+[10:19:28] [Server thread/INFO]: <gryffindor_001> yes
+[10:19:40] [Server thread/INFO]: <gryffindor_001> pr ye retract nhi hua
+[10:21:33] [Server thread/INFO]: <gryffindor_001> kuch toh gdbd h
+[10:21:39] [Server thread/INFO]: <gryffindor_001> peeche aana chahiye
+[10:21:49] [Server thread/INFO]: <gryffindor_001> ye blcok
+[10:21:54] [Server thread/INFO]: <gryffindor_001> block
+[10:21:59] [Server thread/INFO]: <gryffindor_001> glass wala
+[10:22:41] [Server thread/INFO]: <pigmeister> konsi video
+[10:22:48] [Server thread/INFO]: <gryffindor_001> bhej rha tumhe
+[10:23:07] [Server thread/INFO]: <gryffindor_001> discord personal
+[10:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[10:26:22] [Server thread/INFO]: <gryffindor_001> kuuch mila
+[10:27:06] [Server thread/INFO]: <gryffindor_001> class m nhi ho na
+[10:27:11] [Server thread/INFO]: <pigmeister> na
+[10:27:12] [Server thread/INFO]: <gryffindor_001> chatroom m aa jao
+[10:33:24] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
+[10:33:24] [Server thread/INFO]: gryffindor_001 left the game
+[10:33:36] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:53664] logged in with entity id 17667 at (-1138.8413851083167, 86.0, 991.696345949206)
+[10:33:36] [Server thread/INFO]: gryffindor_001 joined the game
+[10:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[10:58:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[11:13:21] [Server thread/INFO]: insayn[/0:0:0:0:0:0:0:1:53761] logged in with entity id 28005 at (-1622.0039931735143, 67.0, 125.84022428839113)
+[11:13:21] [Server thread/INFO]: insayn joined the game
+[11:19:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1602, y=64, z=93} fx{x=-1601, y=64, z=92}
+[11:20:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1606, y=68, z=85} fx{x=-1606, y=68, z=84}
+[11:24:11] [Server thread/INFO]: [gryffindor_001: Teleported gryffindor_001 to pigmeister]
+[11:41:49] [Server thread/INFO]: pigmeister has made the advancement [Spooky Scary Skeleton]
+[11:47:03] [Server thread/WARN]: gryffindor_001 moved too quickly! 17.000417807686972,-4.102008146699589,-0.28170839865208563
+[11:49:40] [Server thread/INFO]: pigmeister has made the advancement [Those Were the Days]
+[11:49:41] [Server thread/INFO]: pigmeister has made the advancement [War Pigs]
+[11:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-364, y=51, z=424} fx{x=-365, y=50, z=424}
+[11:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-364, y=51, z=424} fx{x=-365, y=50, z=424}
+[11:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-364, y=51, z=424} fx{x=-365, y=50, z=424}
+[11:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-364, y=51, z=424} fx{x=-365, y=50, z=424}
+[11:55:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-362, y=48, z=424} fx{x=-363, y=48, z=424}
+[11:55:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-362, y=48, z=424} fx{x=-363, y=48, z=424}
+[11:55:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-361, y=47, z=424} fx{x=-362, y=47, z=424}
+[11:55:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-361, y=47, z=424} fx{x=-362, y=47, z=424}
+[11:55:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-361, y=49, z=424} fx{x=-360, y=48, z=424}
+[11:55:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-361, y=49, z=424} fx{x=-360, y=48, z=424}
+[11:55:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-361, y=49, z=424} fx{x=-360, y=48, z=424}
+[11:55:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-359, y=46, z=423} fx{x=-360, y=45, z=424}
+[11:55:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-359, y=46, z=423} fx{x=-360, y=45, z=424}
+[11:55:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-359, y=46, z=423} fx{x=-359, y=47, z=423}
+[11:55:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-359, y=46, z=423} fx{x=-359, y=47, z=423}
+[11:55:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-359, y=46, z=423} fx{x=-359, y=47, z=423}
+[11:55:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-359, y=46, z=423} fx{x=-359, y=47, z=423}
+[11:55:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-359, y=46, z=423} fx{x=-359, y=47, z=423}
+[11:55:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-359, y=46, z=423} fx{x=-359, y=47, z=423}
+[11:57:00] [Server thread/INFO]: gryffindor_001 has made the advancement [War Pigs]
+[11:57:40] [Server thread/INFO]: [gryffindor_001: Set own game mode to Spectator Mode]
+[11:57:52] [Server thread/INFO]: [gryffindor_001: Set own game mode to Survival Mode]
+[12:00:56] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-371, y=64, z=427} fx{x=-370, y=64, z=427}
+[12:00:56] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-371, y=64, z=427} fx{x=-370, y=64, z=427}
+[12:01:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-379, y=57, z=427} fx{x=-378, y=56, z=427}
+[12:01:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-379, y=57, z=427} fx{x=-378, y=56, z=427}
+[12:02:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-389, y=39, z=422} fx{x=-390, y=40, z=422}
+[12:02:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-389, y=39, z=422} fx{x=-389, y=38, z=422}
+[12:02:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-389, y=39, z=422} fx{x=-389, y=38, z=422}
+[12:02:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-386, y=37, z=421} fx{x=-388, y=38, z=422}
+[12:02:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-386, y=37, z=421} fx{x=-388, y=38, z=422}
+[12:02:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-386, y=37, z=421} fx{x=-388, y=38, z=422}
+[12:02:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-382, y=33, z=421} fx{x=-383, y=33, z=421}
+[12:02:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-382, y=33, z=421} fx{x=-383, y=33, z=421}
+[12:03:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-383, y=31, z=419} fx{x=-382, y=32, z=417}
+[12:07:03] [Server thread/WARN]: gryffindor_001 moved too quickly! -1.659169346834858,2.9222769176471104,-17.4980590965134
+[12:14:29] [Server thread/INFO]: insayn has made the advancement [Spooky Scary Skeleton]
+[12:16:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[12:16:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{layers:"1"},Name:"minecraft:snow"},type:"minecraft:simple_state_provider"}}}]
+[12:16:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{entries:[{data:{Name:"minecraft:blue_ice"},weight:1},{data:{Name:"minecraft:packed_ice"},weight:5}],type:"minecraft:weighted_state_provider"}}}]
+[12:16:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[12:16:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{layers:"1"},Name:"minecraft:snow"},type:"minecraft:simple_state_provider"}}}]
+[12:16:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{entries:[{data:{Name:"minecraft:blue_ice"},weight:1},{data:{Name:"minecraft:packed_ice"},weight:5}],type:"minecraft:weighted_state_provider"}}}]
+[12:16:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{layers:"1"},Name:"minecraft:snow"},type:"minecraft:simple_state_provider"}}}]
+[12:16:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{entries:[{data:{Name:"minecraft:blue_ice"},weight:1},{data:{Name:"minecraft:packed_ice"},weight:5}],type:"minecraft:weighted_state_provider"}}}]
+[12:16:14] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[12:17:02] [Server thread/WARN]: insayn moved too quickly! -13.395867001560418,11.238454056296675,-1.3296670348100719
+[12:17:02] [Server thread/WARN]: gryffindor_001 moved too quickly! -12.792352637206477,-4.6672529306248265,-10.784978664065171
+[12:18:48] [Server thread/INFO]: pigmeister has made the advancement [Withering Heights]
+[12:18:48] [Server thread/INFO]: insayn has made the advancement [Withering Heights]
+[12:18:48] [Server thread/INFO]: gryffindor_001 has made the advancement [Withering Heights]
+[12:20:06] [Server thread/WARN]: Fetching packet for removed entity bcs['Raw Rabbit'/51100, l='ServerLevel[litcraft]', x=-3203.42, y=67.63, z=5.49]
+[12:20:06] [Server thread/WARN]: Fetching packet for removed entity bcs['Raw Rabbit'/51100, l='ServerLevel[litcraft]', x=-3203.42, y=67.63, z=5.49]
+[12:20:06] [Server thread/WARN]: Fetching packet for removed entity bcs['Raw Rabbit'/51100, l='ServerLevel[litcraft]', x=-3203.42, y=67.63, z=5.49]
+[12:20:06] [Server thread/WARN]: Fetching packet for removed entity bcs['Wither Rose'/51101, l='ServerLevel[litcraft]', x=-3203.42, y=67.63, z=5.49]
+[12:20:06] [Server thread/WARN]: Fetching packet for removed entity bcs['Wither Rose'/51101, l='ServerLevel[litcraft]', x=-3203.42, y=67.63, z=5.49]
+[12:20:06] [Server thread/WARN]: Fetching packet for removed entity bcs['Wither Rose'/51101, l='ServerLevel[litcraft]', x=-3203.42, y=67.63, z=5.49]
+[12:20:32] [Server thread/WARN]: Fetching packet for removed entity bcs['Rabbit Hide'/51244, l='ServerLevel[litcraft]', x=-3208.56, y=64.00, z=-19.41]
+[12:20:32] [Server thread/WARN]: Fetching packet for removed entity bcs['Rabbit Hide'/51244, l='ServerLevel[litcraft]', x=-3208.56, y=64.00, z=-19.41]
+[12:20:32] [Server thread/WARN]: Fetching packet for removed entity bcs['Rabbit Hide'/51244, l='ServerLevel[litcraft]', x=-3208.56, y=64.00, z=-19.41]
+[12:20:32] [Server thread/WARN]: Fetching packet for removed entity bcs['Raw Rabbit'/51245, l='ServerLevel[litcraft]', x=-3208.56, y=64.00, z=-19.41]
+[12:20:32] [Server thread/WARN]: Fetching packet for removed entity bcs['Raw Rabbit'/51245, l='ServerLevel[litcraft]', x=-3208.56, y=64.00, z=-19.41]
+[12:20:32] [Server thread/WARN]: Fetching packet for removed entity bcs['Raw Rabbit'/51245, l='ServerLevel[litcraft]', x=-3208.56, y=64.00, z=-19.41]
+[12:20:32] [Server thread/WARN]: Fetching packet for removed entity bcs['Wither Rose'/51246, l='ServerLevel[litcraft]', x=-3208.56, y=64.00, z=-19.41]
+[12:20:32] [Server thread/WARN]: Fetching packet for removed entity bcs['Wither Rose'/51246, l='ServerLevel[litcraft]', x=-3208.56, y=64.00, z=-19.41]
+[12:20:32] [Server thread/WARN]: Fetching packet for removed entity bcs['Wither Rose'/51246, l='ServerLevel[litcraft]', x=-3208.56, y=64.00, z=-19.41]
+[12:26:28] [Server thread/INFO]: pigmeister lost connection: Disconnected
+[12:26:28] [Server thread/INFO]: pigmeister left the game
+[12:26:41] [Server thread/INFO]: insayn lost connection: Disconnected
+[12:26:41] [Server thread/INFO]: insayn left the game
+[12:30:27] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
+[12:30:27] [Server thread/INFO]: gryffindor_001 left the game
+[12:48:09] [Server thread/INFO]: insayn[/0:0:0:0:0:0:0:1:54202] logged in with entity id 52732 at (-3227.300000011921, 66.0, 0.5527306978459496)
+[12:48:09] [Server thread/INFO]: insayn joined the game
+[12:51:11] [Server thread/INFO]: insayn lost connection: Disconnected
+[12:51:11] [Server thread/INFO]: insayn left the game
+[12:52:16] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:54212] logged in with entity id 54237 at (-3199.5359190705144, 85.0, 14.504516363015417)
+[12:52:16] [Server thread/INFO]: gryffindor_001 joined the game
+[12:52:31] [Server thread/INFO]: gryffindor_001 lost connection: Timed out
+[12:52:31] [Server thread/INFO]: gryffindor_001 left the game
+[12:52:31] [Server thread/WARN]: handleDisconnection() called twice
+[12:52:36] [Server thread/INFO]: insayn[/0:0:0:0:0:0:0:1:54213] logged in with entity id 54507 at (-3281.011157720701, 65.0, -61.31231503405956)
+[12:52:36] [Server thread/INFO]: insayn joined the game
+[12:52:55] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:54217] logged in with entity id 54843 at (-3199.5359190705144, 85.0, 14.504516363015417)
+[12:52:55] [Server thread/INFO]: gryffindor_001 joined the game
+[12:54:40] [Server thread/INFO]: gryffindor_001 lost connection: Timed out
+[12:54:40] [Server thread/INFO]: gryffindor_001 left the game
+[12:55:04] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:54257] logged in with entity id 55355 at (-3199.5359190705144, 85.0, 14.504516363015417)
+[12:55:04] [Server thread/INFO]: gryffindor_001 joined the game
+[12:55:20] [Server thread/INFO]: gryffindor_001 lost connection: Timed out
+[12:55:20] [Server thread/INFO]: gryffindor_001 left the game
+[12:55:25] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:54259] logged in with entity id 55504 at (-3199.5359190705144, 85.0, 14.504516363015417)
+[12:55:25] [Server thread/INFO]: gryffindor_001 joined the game
+[12:55:40] [Server thread/INFO]: gryffindor_001 lost connection: Timed out
+[12:55:40] [Server thread/INFO]: gryffindor_001 left the game
+[12:55:59] [Server thread/INFO]: pigmeister[/192.168.0.5:54261] logged in with entity id 55788 at (-3221.3364824449827, 67.0, -3.447018702583455)
+[12:55:59] [Server thread/INFO]: pigmeister joined the game
+[12:56:43] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:54266] logged in with entity id 56002 at (-3199.5359190705144, 85.0, 14.504516363015417)
+[12:56:43] [Server thread/INFO]: gryffindor_001 joined the game
+[12:59:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Rabbit Hide'/56565, l='ServerLevel[litcraft]', x=-3181.74, y=67.00, z=-11.45]
+[12:59:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Rabbit Hide'/56565, l='ServerLevel[litcraft]', x=-3181.74, y=67.00, z=-11.45]
+[12:59:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Rabbit Hide'/56565, l='ServerLevel[litcraft]', x=-3181.74, y=67.00, z=-11.45]
+[12:59:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Wither Rose'/56566, l='ServerLevel[litcraft]', x=-3181.74, y=67.00, z=-11.45]
+[12:59:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Wither Rose'/56566, l='ServerLevel[litcraft]', x=-3181.74, y=67.00, z=-11.45]
+[12:59:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Wither Rose'/56566, l='ServerLevel[litcraft]', x=-3181.74, y=67.00, z=-11.45]
+[13:00:26] [Server thread/INFO]: insayn withered away whilst fighting Wither
+[13:00:55] [Server thread/INFO]: [gryffindor_001: Teleported gryffindor_001 to insayn]
+[13:01:03] [Server thread/INFO]: [gryffindor_001: Teleported insayn to pigmeister]
+[13:01:08] [Server thread/INFO]: [gryffindor_001: Teleported gryffindor_001 to pigmeister]
+[13:05:13] [Server thread/INFO]: insayn was shot by pigmeister
+[13:05:23] [Server thread/INFO]: [gryffindor_001: Teleported insayn to pigmeister]
+[13:07:02] [Server thread/WARN]: pigmeister moved too quickly! -15.285973346286937,-2.445561910381784,-8.85810134122141
+[13:10:05] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
+[13:10:05] [Server thread/INFO]: gryffindor_001 left the game
+[13:13:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13:15:10] [Server thread/INFO]: pigmeister lost connection: Disconnected
+[13:15:10] [Server thread/INFO]: pigmeister left the game
+[13:15:13] [Server thread/INFO]: insayn lost connection: Disconnected
+[13:15:13] [Server thread/INFO]: insayn left the game
+[13:15:26] [Server thread/INFO]: Stopping the server
+[13:15:26] [Server thread/INFO]: Stopping server
+[13:15:26] [Server thread/INFO]: Saving players
+[13:15:26] [Server thread/INFO]: Saving worlds
+[13:15:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:overworld
+[13:15:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:15:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_nether
+[13:15:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:15:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_end
+[13:15:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:15:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:15:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:15:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+=======
+[01:04:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:04:17] [main/INFO]: Reloading ResourceManager: Default, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, durability ping v1.1.0.zip, more mob heads v2.3.0.zip, nether portal coords v1.0.0.zip, wandering trades v1.0.0.zip, armor statues v2.8.1.zip, multiplayer sleep v2.4.3.zip
+[01:04:18] [Worker-Main-10/INFO]: Loaded 7 recipes
+[01:04:18] [Worker-Main-10/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[01:04:18] [Worker-Main-10/ERROR]: Parsing error loading custom advancement main:main/namespace: Expected item to be an item, was unknown string 'minecraft:item'
+[01:04:19] [Worker-Main-10/INFO]: Loaded 974 advancements
+[01:04:21] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[01:04:21] [Server thread/INFO]: Loading properties
+[01:04:21] [Server thread/INFO]: Default game type: SURVIVAL
+[01:04:21] [Server thread/INFO]: Generating keypair
+[01:04:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:04:21] [Server thread/INFO]: Using default channel type
+[01:04:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:04:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:04:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:04:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:04:22] [Server thread/INFO]: Preparing level "world"
+[01:04:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 83%
+[01:04:25] [Server thread/INFO]: Time elapsed: 2429 ms
+[01:04:25] [Server thread/INFO]: Done (2.670s)! For help, type "help"
+[01:05:10] [Server thread/INFO]: insayn[/192.168.137.1:56557] logged in with entity id 16 at (-1622.0039931735143, 67.0, 125.84022428839113)
+[01:05:10] [Server thread/INFO]: insayn joined the game
+[02:21:53] [Server thread/INFO]: insayn lost connection: Disconnected
+[02:21:53] [Server thread/INFO]: insayn left the game
+[02:22:11] [Server thread/INFO]: Stopping the server
+[02:22:12] [Server thread/INFO]: Stopping server
+[02:22:12] [Server thread/INFO]: Saving players
+[02:22:12] [Server thread/INFO]: Saving worlds
+[02:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:overworld
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_nether
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_end
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+>>>>>>> 2047030e835d0e8adac70fb733f0f8c3f00856e2
